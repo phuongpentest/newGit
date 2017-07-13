@@ -4,8 +4,11 @@
 	<body>
 		<ul>
 			<li>Food</li>
+<<<<<<< HEAD
 			<li>Notebook Computers</li>
+=======
 			<li>Desktop Computers</li>
+>>>>>>> a0c5b5224cd0eac743a93bc7ef17f372ddc78884
 			<li>Clothes</li>
 			<li>Mobile phone</li>
 			<li>Others</li>
