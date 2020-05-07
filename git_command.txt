@@ -1,0 +1,22 @@
+git branch -a
+git branch <branch-name>
+git checkout <branch-name>
+git add .
+git commit -m 'message'
+git push -u origin <branch-name>
+
+git checkout master
+
+git pull origin master
+git branch --merged
+git merge <branch-name>
+git push origin master
+
+git branch -d <branch-name>
+git push origin --delete <branch-name>
+
+git commit --amend -m 'message'
+
+git commit --amend
+
+git cherry-pick <commit-hash>
